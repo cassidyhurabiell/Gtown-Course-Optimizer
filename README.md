@@ -1,10 +1,6 @@
 # Gtown-Course-Optimizer
 A personalized course scheduler and degree-planning system that combines transcript parsing, professor analysis, and student preferences to generate optimized, human-centered schedules. *individual project, not affiliated with Georgetown
 
-# Georgetown Course Optimizer
-
-A personalized course scheduling and degree-planning system built for students at Georgetown University.
-
 This project began with a simple frustration: most university scheduling tools treat students like spreadsheets. They can tell you whether classes overlap, but they cannot tell you whether you will actually enjoy a professor, burn out from your schedule, stay on track for graduation, or discover classes that genuinely excite you. I wanted to build something that approached scheduling more like an advisor would, balancing graduation requirements with personality, interests, workload, and long-term goals.
 
 The optimizer generates schedules tailored to each individual student. Instead of only maximizing “efficiency,” it tries to create schedules that students will realistically enjoy and succeed in. A student interested in fintech who prefers compact morning schedules should not receive the same recommendations as someone exploring philosophy and prioritizing discussion-heavy seminars with highly rated professors.
